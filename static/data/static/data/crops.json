@@ -1,0 +1,6 @@
+{
+    "Grains": ["Maize", "Rice", "Wheat", "Sorghum"],
+    "Legumes": ["Soybeans"],
+    "Root Crops": ["Cassava", "Sweet potatoes", "Yams"],
+    "Other": ["Potatoes", "Plantains and others"]
+} 
